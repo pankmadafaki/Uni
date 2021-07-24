@@ -1,0 +1,15 @@
+SYSTEM = Al-fcc        ! tag to characterize the type of calculation
+
+! parameter for scf-cycle
+PREC   = Accurate      ! convenient way to handle the precision of a calculation
+ENCUT  = 200           ! plane wave cut-off (eV)
+EDIFF  = 1E-8          ! energy convergence criterion
+ISMEAR = -5            ! Brillioun zone integration with tetrahedron method
+! parameters for density of states (DOS)
+EMIN  = -5             ! lower energy boundary for evaluation of the DOS
+EMAX  = 20             ! upper energy boundary for evaluation of the DOS
+NEDOS = 501            ! number of gridpoints on which the DOS is evaluated 
+LORBIT= 10             ! switch for projected DOS
+! an explanation of all possible INCAR-tags can be found here:
+! https://cms.mpi.univie.ac.at/wiki/index.php/Category:INCAR
+

@@ -1,0 +1,10 @@
+Al-fcc               ! line 1   = comment to characterize the structure
+4.00                 ! line 2   = scaling factor (Angstroem) 
+  0.0   0.5  0.5     ! line 3   = Cartesian coordinates of 1st lattice vector
+  0.5   0.0  0.5     ! line 4   = Cartesian coordinates of 2nd lattice vector
+  0.5   0.5  0.0     ! line 5   = Cartesian coordinates of 3rd lattice vector
+   Al                
+   1                 ! line 6/7 = atom types / number of atoms for each atom type
+Direct               ! line 8   = Direct / Cartesian: switch for atomic coordinates
+ 0.00 0.00 0.00      ! line 9 -  : coordinates of atoms
+

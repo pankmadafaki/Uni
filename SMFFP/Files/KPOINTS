@@ -1,0 +1,6 @@
+automatic mesh     ! this turns on the automatic generation of k-points
+ 0                 ! number of k-points = 0 -> automatic generation scheme 
+Monkhurst          ! so-called Monkhorst-Pack k-grids [Phys. Rev. B 13, 5188-5192 (1976)]
+  15 15 15         ! subdivisions N_1, N_2 and N_3 along reciprocal lattice vectors
+  0   0  0         ! optional shift of the mesh (s_1, s_2, s_3) 
+

@@ -1,0 +1,25 @@
+ c
+ c   1 cc2     
+ c    2 cc3         1 ccc3      
+ c    3 cc4         2 ccc4          1 dih4   
+ c    4 cc5         3 ccc5          2 dih5   
+ c    5 cc6         4 ccc6          3 dih6   
+ h    2 hc7         1 hcc7          3 dih7   
+ h    4 hc8         3 hcc8          5 dih8   
+ c    6 cc9         5 ccc9          4 dih9   
+ c    1 cc10        2 ccc10         3 dih10  
+ c   10 cc11        1 ccc11         2 dih11  
+ c    9 cc12        6 ccc12         5 dih12  
+ o    9 oc13        6 occ13         5 dih13  
+ h   13 ho14        9 hoc14         6 dih14  
+ o    5 oc15        4 occ15         3 dih15  
+ h   15 ho16        5 hoc16         6 dih16  
+ o    3 oc17        4 occ17         5 dih17  
+ h   17 ho18        3 hoc18         4 dih18  
+ o   10 oc19        1 occ19         6 dih19  
+ o   11 oc20       10 occ20         1 dih20  
+ h   19 ho21       10 hoc21        11 dih21  
+ h   20 ho22       11 hoc22        10 dih22  
+ h   12 hc23        9 hcc23         6 dih23  
+ 
+ 
